@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/apoorvatomar/Gym_and_fitness.git
+   git clone https://github.com/Rahul-Kushwaha-1818/Gym-and-fitness.git
    ```
 2. Navigate to the project directory:
    ```sh
